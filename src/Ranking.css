@@ -1,0 +1,36 @@
+.ranking-container {
+  width: 80%;
+  margin: auto;
+}
+
+.ranking-container table {
+  width: 100%;
+  border: 1px solid #333;
+}
+
+.ranking-container table thead {
+  background-color: rgb(100, 95, 95);
+  color: #e0dddd;
+  font-weight: 600;
+}
+.ranking-container thead td {
+  padding: 5px 2px;
+}
+.ranking-container tbody td {
+  padding: 5px 2px;
+}
+.ranking-container tbody tr.even {
+  background-color: #f1efef;
+}
+.ranking-container tbody tr.odd {
+  background-color: #dddbdb;
+}
+
+.button-jogar-container {
+  margin-top: 40px;
+}
+.button-jogar-container button {
+  font-size: 24px;
+  padding: 8px;
+  width: 120px;
+}

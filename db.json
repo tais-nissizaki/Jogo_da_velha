@@ -1,0 +1,22 @@
+{
+  "ranking": [
+    {
+      "id": 1,
+      "jogador": "Fulano",
+      "movimentos": 4,
+      "tempo": 15
+    },
+    {
+      "id": 2,
+      "jogador": "Beltrano",
+      "movimentos": 3,
+      "tempo": 20
+    },
+    {
+      "jogador": "aaaaaaaaa",
+      "movimentos": 3,
+      "tempo": 20,
+      "id": 3
+    }
+  ]
+}

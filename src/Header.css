@@ -1,0 +1,19 @@
+.App-header {
+  min-height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  width: 100%;
+}
+
+.header-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.header-link {
+  text-align: right;
+  font-size: calc(8px + 2vmin);
+}

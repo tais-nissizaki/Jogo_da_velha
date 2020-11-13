@@ -1,0 +1,35 @@
+.container-jogo {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.div-humano {
+  text-align: right;
+  flex-direction: row;
+  width: 35%;
+}
+.div-maquina {
+  text-align: left;
+  flex-direction: row;
+  width: 35%;
+  border: 1px solid #000;
+}
+.escondido {
+  visibility: hidden;
+  flex-direction: row;
+  width: 35%;
+  border: 1px solid #000;
+}
+
+.container-tabela-jogo {
+  width: 320px;
+  border: 1px solid #000;
+  margin: auto;
+}
+.tabela-jogo {
+  width: 100%;
+}
+.tabela-jogo tr td {
+  border: 1px solid #000;
+  height: 100px;
+}
